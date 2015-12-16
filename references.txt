@@ -1,0 +1,12 @@
+Select function usage:
+	http://stackoverflow.com/questions/12625224/can-someone-give-me-an-example-of-how-select-is-alerated-to-a-fd-becoming-rea
+
+Thread usage:
+	http://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
+
+Sockets Usage: 
+	http://www.linuxhowtos.org/C_C++/socket.html
+
+Binary file Read usage:
+	http://www.codingunit.com/c-tutorial-binary-file-io
+
